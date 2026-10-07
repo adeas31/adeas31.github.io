@@ -1,4 +1,4 @@
-I'm a software developer and project leader at Santa Anna IT Research Institute, with a Master's in Computer Systems from Linköping University.
+I'm a software developer and project leader at [Santa Anna IT Research Institute](https://www.santa-anna.se/), with a Master's in Computer Systems from Linköping University.
 
 I've been developing and maintaining [OpenModelica](https://openmodelica.org), the open-source modeling and simulation environment, for many years.
 
