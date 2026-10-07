@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.avatar { width: 160px; border-radius: 50%; display: block; margin-bottom: 12px; }
+.sidebar-links { list-style: none; padding: 0; }
+.sidebar-links li { margin-bottom: 6px; }
+
+@media (prefers-color-scheme: dark) {
+  body { background: #121212; color: #c9c9c9; }
+  h1, h2, h3, h4, h5, h6, strong, header h1 { color: #f0f0f0; }
+  a { color: #6cb6ff; }
+  a:hover { color: #9ccfff; }
+  hr { background: #333; }
+  pre, code { background: #1e1e1e; color: #ddd; border-color: #333; }
+  table, th, td { border-color: #333; }
+}
